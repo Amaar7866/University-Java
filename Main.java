@@ -3,7 +3,7 @@ public class Main {
         // Variables to store your details
         String firstName = "Amaar";
         String lastName = "Ahmad";
-        String jobRole = "Jenkins Developer";
+        String jobRole = "IT Technical Apprentice";
 
         // Output your details
         System.out.println("Name: " + firstName);
