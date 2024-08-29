@@ -7,9 +7,9 @@ pipeline {
       }
     }
 
-    stage('test code') {
+    stage('Test Code') {
       steps {
-        error 'error'
+        echo 'error test'
       }
     }
 
