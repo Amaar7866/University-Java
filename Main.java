@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
         // Variables to store your details
-        String firstName = "Amaar";
-        String lastName = "Ahmad";
-        String jobRole = "IT Technical Apprentice";
+        String firstName = "Aubayed";
+        String lastName = "Bhatti";
+        String jobRole = "IT Apprentice";
 
         // Output your details
         System.out.println("Name: " + firstName);
